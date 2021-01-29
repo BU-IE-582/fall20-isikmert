@@ -14,3 +14,10 @@
 ##(January 01) Homework 3
 ##[Here](files/Mert_ISIK_Homework_3.html) is my python document for Homework 3 in html type.
 
+
+
+
+##(January 29) Homework 4
+##[Here](files/Mert_ISIK_Homework_4.html) is my python document for Homework 4 in html type.
+##[Here](files/HW 4 Data/) is my data for Homework 4.
+
